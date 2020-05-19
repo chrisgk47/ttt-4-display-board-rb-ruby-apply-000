@@ -13,5 +13,5 @@ rows = ["#{board[0]}#{board[1]}#{board[2]}#{board[3]}#{board[4]}", "#{board[5]}#
 def display_board(rows)
   puts "#{rows[0]}"
   puts "#{rows[1]}"
-  puts "{rows[2]}"
+  puts "#{rows[2]}"
 end
