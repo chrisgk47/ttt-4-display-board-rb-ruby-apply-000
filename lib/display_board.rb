@@ -13,3 +13,4 @@ def display_board(rows)
   puts "#{rows[1]}"
   puts "#{rows[2]}"
 end
+rows[0]
